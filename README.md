@@ -1,4 +1,3 @@
-# Impressum
 
 ```bash
 * Wickr Me: vaneulen
