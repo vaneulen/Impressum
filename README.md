@@ -1,4 +1,4 @@
-VANEULEN (Manuel Knödlseder) 
+VANEULEN
 
 Helenenstr 6a
 
